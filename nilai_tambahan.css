@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.judul {
+    color: #0000ff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.logo {
+    display: block;
+    margin: 10px 0;
+    width: 200px;
+}
+
+.content {
+    background: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: black;
+    border-bottom: 3px solid #ccc;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bol;
+}
+
+.isi_spesial{
+    background-color: lightgray;
+}
+
+.Special {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
